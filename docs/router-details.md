@@ -24,7 +24,7 @@ syd-core-01|1|Vidhya| 13.54.186.240 | sin-core-01|seo-core-01 |nov-core-02 |
 
 3### Participant Routers - Enter your details below against your name
 
-Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
+54.158.255.186Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
 
 Note - We have not put core routers in all the regions.   Your router that you create and and the routers you mesh with do not have to be in the same AWS region.
 
@@ -72,7 +72,7 @@ Shrikanth Rajgopalan|Asia Pacific (Singapore)|sgp-srajgopalan|52.74.75.28|sgp-co
 Steve Chan|Asia Pacific (Singapore)|sgp-schan| |sgp-core-01| 
 Sumeet Koshal|Asia Pacific (Singapore)|sgp-skoshal| |sgp-core-01| 
 Tom Fairbairn|EU (Frankfurt)|frk-tfairbairn| 35.156.89.209 |frk-core-01|frk-mboulet|
-Tom O'Leary|US East (N. Virginia)|nov-toleary| |nov-core-02| 
+Tom O'Leary|US East (N. Virginia)|nov-toleary|54.158.255.186|nov-core-02| 
 Vincent Lam|Asia Pacific (Seoul)|seo-vlam|52.78.188.83|seo-core-01| 
 Wayne Osse|US East (N. Virginia)|nov-wosse| |nov-core-02| 
 Wayne Sang|US East (N. Virginia)|nov-wsang| |nov-core-02| 
